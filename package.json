@@ -1,0 +1,12 @@
+{
+  "name": "maize-map-app",
+  "version": "1.0.0",
+  "description": "Maize Production in Africa Map",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
